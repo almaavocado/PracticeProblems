@@ -1,2 +1,2 @@
-# LeetCodePractice
-My solutions to Leet Code practice problems.
+# Practice Problems
+My solutions to Leet Code and HackerRank practice problems.
